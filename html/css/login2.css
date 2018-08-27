@@ -1,0 +1,40 @@
+body {
+	background: #3C404B;	
+	color:#3C404B;
+}
+
+#login_form{
+	background-color: #fdfdfd;
+	border-radius: 5px;
+	margin-top: 10%;
+}
+
+
+h1 {
+	height: 50px;
+	text-align: center;
+	margin-bottom: -25px;
+/*	border:1px solid red;*/
+}
+
+label{
+	text-align: center;
+}
+
+span {
+	position: relative;
+	display: inline-block;
+	top: 38px;
+	left: 12%;
+	font-size: 25px;
+}
+
+input[type="email"],input[type="password"]{
+	padding-left:46px;
+	margin-left: 10%;
+	width: 80%;
+}
+
+.checkbox{
+	padding-left:21px;
+}
